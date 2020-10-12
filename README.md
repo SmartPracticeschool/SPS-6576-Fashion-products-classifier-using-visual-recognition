@@ -15,4 +15,4 @@ Node-Red
 <br><br>
 To Watch my video Click..
 <br><br>
-[![Click Here to watch the classification process..](https://i.ytimg.com/vi/0WaaLc705Ug/maxresdefault.jpg)](https://youtu.be/qRq3QOljVJM)
+[![Click Here to watch the classification process..](https://i.ytimg.com/vi/txfjhGXn7Us/maxresdefault.jpg)](https://youtu.be/qRq3QOljVJM)
