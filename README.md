@@ -5,7 +5,7 @@
 <br>
 <b>Project Description:</b>
 <br>
-In this project you need to build a web application that checks the type of fashion product like Shirt, T-Shirt and Jeans .IBM Watson Visual Recognition services is used to build a custom model to check for the type of product. Build the web application using Node-red Service and integrate to Visual Recognition.
+In this project you need to build a web application that checks the type of fashion product like Shirt, T-Shirt and Jeans. IBM Watson Visual Recognition services is used to build a custom model to check for the type of product. Build the web application using Node-red Service and integrate to Visual Recognition.
 <br>
 <br>
 <b>Services Used:</b>
